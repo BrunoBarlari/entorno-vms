@@ -26,9 +26,6 @@ strace \
 valgrind \
 curl \
 git-all \
-htop \
-ssh \
-net-tools \
 neofetch \
 tar \
 unzip \
@@ -39,9 +36,16 @@ wget \
 xclip \
 openjdk-17-jdk \
 hexedit \
-nano \
-vim \
-emacs
+neovim \
+bat \
+fish \ 
+btop \ 
+exa \ 
+fzf \ 
+peco \ 
+ranger \ 
+zstd \ 
+tldr \ 
 
 ssh-keygen -A
 /etc/init.d/ssh start
